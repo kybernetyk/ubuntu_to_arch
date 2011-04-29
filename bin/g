@@ -1,0 +1,4 @@
+#!/bin/sh
+#script that will open google and search for arguments passed
+
+firefox http://www.google.com/search?q="$*"
