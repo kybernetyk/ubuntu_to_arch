@@ -1,0 +1,1 @@
+/sbin/iwconfig eth1 power off
